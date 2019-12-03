@@ -1,0 +1,423 @@
+1544752309808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iGkzr8en0ffL"
+1544752314811	Marionette	INFO	Listening on port 57137
+1544752314938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544752317736	Marionette	INFO	Stopped listening on port 57137
+1544752415626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8pF6htOncAsQ"
+1544752420011	Marionette	INFO	Listening on port 57669
+1544752420073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544752422914	Marionette	INFO	Stopped listening on port 57669
+1544752448968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hoH2KdKKXyjr"
+1544752452843	Marionette	INFO	Listening on port 57883
+1544752452897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544752491844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hNITRQKfF02v"
+1544752497230	Marionette	INFO	Listening on port 58130
+1544752497313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544752502730	Marionette	INFO	Stopped listening on port 58130
+1544752511136	Marionette	INFO	Stopped listening on port 57883
+1544752521070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yWWnO9ELbeIm"
+1544752525030	Marionette	INFO	Listening on port 58342
+1544752525096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1544752529727	Marionette	INFO	Stopped listening on port 58342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544753081115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OctiT0ntUi8n"
+1544753085041	Marionette	INFO	Listening on port 60885
+1544753085074	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1544753176983	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XRcbjNXNZPPj"
+1544753181163	Marionette	INFO	Listening on port 61382
+1544753181209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544753254700	Marionette	INFO	Stopped listening on port 61382
+1544753258382	Marionette	INFO	Stopped listening on port 60885
+1544753298733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HZluxkSyoN1C"
+1544753306932	Marionette	INFO	Listening on port 62054
+1544753307033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544753328346	Marionette	INFO	Stopped listening on port 62054
+1544753681236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WjoFRf9YiouB"
+1544753686388	Marionette	INFO	Listening on port 63822
+1544753686465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544753717475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OaLfL2vmujy7"
+1544753721595	Marionette	INFO	Listening on port 64071
+1544753721628	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544753735166	Marionette	INFO	Stopped listening on port 64071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544753737946	Marionette	INFO	Stopped listening on port 63822
+1544753879283	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yWxKhYWvyFZi"
+1544753883280	Marionette	INFO	Listening on port 64858
+1544753883318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+1544753938072	Marionette	INFO	Stopped listening on port 64858
+1544753941618	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pW3MIvXsae0p"
+1544753945943	Marionette	INFO	Listening on port 65292
+1544753945999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544753963756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8b6QI8PnKpvI"
+1544753968461	Marionette	INFO	Listening on port 65493
+1544753968530	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1544753983405	Marionette	INFO	Stopped listening on port 65493
+1544753986255	Marionette	INFO	Stopped listening on port 65292
+1544754025866	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pJYdFDGO9AIP"
+1544754030245	Marionette	INFO	Listening on port 49490
+1544754030310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544754088575	Marionette	INFO	Stopped listening on port 49490
+1544754126444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NCd76qVjjA82"
+1544754131171	Marionette	INFO	Listening on port 50072
+1544754131197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544754257397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i0U8WWKTfbTX"
+1544754262404	Marionette	INFO	Listening on port 50865
+1544754262470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544755412447	Marionette	INFO	Stopped listening on port 50865
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1544755415531	Marionette	INFO	Stopped listening on port 50072
+1545706437912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jRDiIs2rjzU7"
+1545706441841	Marionette	INFO	Listening on port 62687
+1545706441911	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21177, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%80%E5%B2%A1%E5%B8%82%E7%95%91%E9%87%8E%E7%94%BA%E5%8D%83%E3%82%B1%E7%95%91%E9%AB%99%E6%A9%8B2-112, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1545706452962	Marionette	INFO	Stopped listening on port 62687
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1545709883426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JsKUT2WBecv4"
+1545709887732	Marionette	INFO	Listening on port 60750
+1545709887834	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 64938, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1545709968227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q74xeJrRhC0o"
+1545709973221	Marionette	INFO	Listening on port 61172
+1545709973281	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 73794, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1545710030582	Marionette	INFO	Stopped listening on port 60750
+1545710032444	Marionette	INFO	Stopped listening on port 61172
+1545710053504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.grVIkVZ6k3mS"
+1545710058775	Marionette	INFO	Listening on port 61612
+1545710058876	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 82853, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1545710111632	Marionette	INFO	Stopped listening on port 61612
+1545710124503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zD3VT7mwms1b"
+1545710128011	Marionette	INFO	Listening on port 61989
+1545710128034	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 91492, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1545710276342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UG9YD6aJKEB7"
+1545710279225	Marionette	INFO	Listening on port 62731
+1545710279244	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1545710279713	Marionette	INFO	Stopped listening on port 61989
+[Parent 5953, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Parent 5953, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2601: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%A0%88%E7%A3%A8%E5%8C%BA%E5%A1%A9%E5%B1%8B%E5%8F%B03%E4%B8%81%E7%9B%AE14-6, line 2601: Error: WebGL warning: copyTexSubImage2D: This operation requires zeroing texture data. This is slow.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545716423884	Marionette	INFO	Stopped listening on port 62731
+1545732223217	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GGCqdgrLq4ch"
+1545732226380	Marionette	INFO	Listening on port 55563
+1545732226425	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 49453, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1545732266353	Marionette	INFO	Stopped listening on port 55563
+1545732268896	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3LMS5yThIeul"
+1545732272015	Marionette	INFO	Listening on port 55827
+1545732272100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Parent 53030, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2601: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E5%90%89%E5%8C%BA%E5%B1%B1%E4%B9%8B%E5%86%85%E5%85%83%E7%94%BA, line 2601: Error: WebGL warning: copyTexSubImage2D: This operation requires zeroing texture data. This is slow.
+[Child 53228, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Child 53228, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1545732330802	Marionette	INFO	Stopped listening on port 55827
+1545814575738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dS1tfzP8Eg9W"
+1545814581606	Marionette	INFO	Listening on port 55793
+1545814581718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+[Parent 77870, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+[Parent 77870, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1545814711218	Marionette	INFO	Stopped listening on port 55793
+1545814819171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gza7dulDvv8B"
+1545814836643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814836644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814839398	Marionette	INFO	Listening on port 56972
+1545814839676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KVOAgxC7Yadz"
+1545814840554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814840554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814843371	Marionette	INFO	Listening on port 57077
+1545814843587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545814843648	Marionette	INFO	Stopped listening on port 56972
+Can't find symbol 'GetGraphicsResetStatus'.
+[Parent 11527, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814854985	Marionette	INFO	Stopped listening on port 57077
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000B8,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1545814858184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kam1Y8F7WLiZ"
+1545814860006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814860006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814863888	Marionette	INFO	Listening on port 57228
+1545814863974	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814874935	Marionette	INFO	Stopped listening on port 57228
+1545814920712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XFN6mlAuMiZz"
+2018-12-26 17:02:03.816 firefox-bin[19569:344875800] IMKClient Stall detected, *please Report* your user scenario attaching a spindump (or sysdiagnose) that captures the problem - (imkxpc_bundleIdentifierWithReply:) block performed very slowly (2.00 secs).
+1545814924123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814924123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814926037	Marionette	INFO	Listening on port 57562
+1545814926129	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+[Parent 19569, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814938633	Marionette	INFO	Stopped listening on port 57562
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: resource://gre/modules/BrowserUtils.jsm, line 410: TypeError: docShell is null
+1545814941985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9vph2tqtNPhP"
+1545814943575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814943575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814947921	Marionette	INFO	Listening on port 57732
+1545814948038	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814957312	Marionette	INFO	Stopped listening on port 57732
+1545814978189	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vGXe8bPN8vMa"
+1545814979565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545814979565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814983848	Marionette	INFO	Listening on port 57963
+1545814983970	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+[Parent 25443, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545814998971	Marionette	INFO	Stopped listening on port 57963
+[Parent 25443, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1545815000907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nA6m5MCcU1Ya"
+1545815001786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545815001786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815003855	Marionette	INFO	Listening on port 58146
+1545815003933	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815018293	Marionette	INFO	Stopped listening on port 58146
+1545815367011	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b0Z6xgVKPoIF"
+1545815368497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545815368498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815372352	Marionette	INFO	Listening on port 59897
+1545815372456	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815390317	Marionette	INFO	Stopped listening on port 59897
+1545815434144	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nQt1BJJ4HFAI"
+1545815435457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545815435458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815438729	Marionette	INFO	Listening on port 60262
+1545815438801	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'GetGraphicsResetStatus'.
+[Parent 73419, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2582: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2582: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2583: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2600: Error: WebGL warning: clear: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.co.jp/maps?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E4%B8%AD%E9%81%93, line 2602: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+Can't find symbol 'GetGraphicsResetStatus'.
+1545815452008	Marionette	INFO	Stopped listening on port 60262
+[Parent 73419, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

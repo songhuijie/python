@@ -1,0 +1,9 @@
+('/Applications/MAMP/htdocs/htdocs/python/dist/get_cover',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1562644510)
